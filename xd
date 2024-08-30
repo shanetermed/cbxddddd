@@ -52,7 +52,6 @@ local MiscSec3 = Tabs.Misc:AddRightGroupbox('Tweaks')
 local MiscSec4 = Tabs.Misc:AddRightGroupbox('Hit')
 local MiscSec5 = Tabs.Misc:AddRightGroupbox('Others')
 local MiscSec6 = Tabs.Misc:AddLeftGroupbox('Gun Mods')
-local MiscSec7 = Tabs.Misc:AddLeftGroupbox('Exploits')
 
 local MenuGroup = Tabs['UI Settings']:AddLeftGroupbox('Menu')
 ------------------------------------ VARS ------------------------------------
